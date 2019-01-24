@@ -1,7 +1,7 @@
 # -influenza-like-illness-ILI-in-Italy
 The goal of this assignment is trying to estimate, in near-real time, the level of influenza-like illness (ILI) in Italy by monitoring the rate of particular Wikipedia article views on a daily basis. We calculated the number of times certain influenza- or health-related Wikipedia articles were accessed each day between July 2015 and Decemcer 2018 and compared these data to official ILI activity levels provided by Influnet (Rete Italiana Sorveglianza Influenza).
 
-##Introduction 
+# Introduction 
 
 The goal of this assignment is trying to estimate, in near-real time, the level of influenza-like illness (ILI) in Italy by monitoring the rate of particular Wikipedia article views on a daily basis. We calculated the number of times certain influenza- or health-related Wikipedia articles were accessed each day between July 2015 and Decemcer 2018 and compared these data to official ILI activity levels provided by Influnet (Rete Italiana Sorveglianza Influenza).
 
@@ -19,7 +19,7 @@ Folder_structure
 
 
 
-## Consolidation of results
+# Consolidation of results
 
 Below are the results we obtained,
 
